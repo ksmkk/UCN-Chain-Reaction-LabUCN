@@ -6,7 +6,7 @@ En esta actividad investigaremos cómo una dependencia npm puede introducir cód
 
 ## Comienza por aquí
 
-**1.** [Abrir la sala Chain Reaction en TryHackMe](https://tryhackme.com/room/chainreaction)  
+**1.** [Abrir la sala Chain Reaction en TryHackMe](https://tryhackme.com/room/chainreaction-bt)  
 **2.** [Seguir la guía de estudiantes, sin respuestas](docs/guia-estudiantes.md)  
 **3.** [Copiar y pegar el decoder completo en la terminal](herramientas/decoder-terminal.md)
 
@@ -26,6 +26,6 @@ No ejecutes `node postinst.js`, `npm install`, `npm update` ni instrucciones `cu
 
 ## Referencias
 
-- [TryHackMe — Chain Reaction](https://tryhackme.com/room/chainreaction)
+- [TryHackMe — Chain Reaction](https://tryhackme.com/room/chainreaction-bt)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 **Academia de Ciberseguridad UCN** · Material de uso ético en entornos autorizados.
