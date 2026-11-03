@@ -1,7 +1,7 @@
 # Chain Reaction — Investigación guiada
 
 **Academia de Ciberseguridad UCN · Grupo avanzado inicial**  
-**Plataforma:** [TryHackMe — Chain Reaction](https://tryhackme.com/room/chainreaction)  
+**Plataforma:** [TryHackMe — Chain Reaction](https://tryhackme.com/room/chainreaction-bt)  
 **Modalidad:** investigación de evidencias en Ubuntu, con apoyo de un decodificador estático.
 
 > **Desafío:** un desarrollador instaló una dependencia aparentemente normal. ¿Podemos demostrar qué se instaló, qué código se ejecutaba y qué rastros dejó? **No ejecutaremos el malware ni contactaremos su servidor.**
